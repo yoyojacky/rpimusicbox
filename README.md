@@ -188,3 +188,6 @@ mpg123 ~/Music/your_song.mp3
 
 如果命令行能正常出声，说明硬件和驱动配置正确，此时再运行 `rpimusicbox.py` 即可。
 If command-line playback works, your hardware and drivers are correctly configured, and `rpimusicbox.py` should work fine.
+
+## UI效果
+![rpimusicbox](./rpiMusicBox.png)_
